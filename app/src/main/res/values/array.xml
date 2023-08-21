@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="course_options">
+        <item>B.E</item>
+        <item>BBA</item>
+        <item>B.com</item>
+        <item>MBA</item>
+    </array>
+    <array name="year_options">
+        <item>First year</item>
+        <item>Second year</item>
+        <item>Third year</item>
+        <item>Fourth year</item>
+    </array>
+    <array name="subject_options">
+        <item>Mathematics-I</item>
+        <item>Mathematics-II</item>
+        <item>Physics</item>
+        <item>BEEE</item>
+        <item>OOPS</item>
+        <item>Disruptive Technologies-I</item>
+        <item>Disruptive Technologies-II</item>
+        <item>CGCAD</item>
+        <item>ITPS</item>
+        <item>Digital Electronics</item>
+        <item>Communication Skills</item>
+        <item>Biology</item>
+    </array>
+</resources>
+
